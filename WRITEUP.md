@@ -17,8 +17,10 @@
 - **Availability:** Microsoft handles patching, uptime, and redundancy automatically with guaranteed SLAs in paid tiers.  
 - **Workflow:** Integrates directly with GitHub for CI/CD. Supports environment variable configuration, quick deployments, and minimal infrastructure management.
 
-**Choice:**  
-For this CMS project, I chose **Azure App Service** because it provides a simplified and automated deployment experience, integrates seamlessly with GitHub for CI/CD, and requires minimal setup. It handles scaling and availability without manual intervention and keeps sensitive information secure via Application Settings. This is ideal for a lightweight Flask-based CMS application.
+**Choice:**  Here’s a revised version starting the way you requested:
+
+**Choice:**
+I chose Azure App Service because the project I am doing is a lightweight Flask-based CMS, and this service provides an easy, automated deployment process with minimal setup. It integrates smoothly with GitHub for CI/CD, handles scaling and availability on its own, and keeps sensitive information secure through Application Settings, making it the ideal choice for this project.
 
 ---
 
